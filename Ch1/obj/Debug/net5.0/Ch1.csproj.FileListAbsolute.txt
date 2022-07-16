@@ -1,0 +1,15 @@
+C:\Code-Project\DesignPattern\Ch1\bin\Debug\net5.0\Ch1.exe
+C:\Code-Project\DesignPattern\Ch1\bin\Debug\net5.0\Ch1.deps.json
+C:\Code-Project\DesignPattern\Ch1\bin\Debug\net5.0\Ch1.runtimeconfig.json
+C:\Code-Project\DesignPattern\Ch1\bin\Debug\net5.0\Ch1.runtimeconfig.dev.json
+C:\Code-Project\DesignPattern\Ch1\bin\Debug\net5.0\Ch1.dll
+C:\Code-Project\DesignPattern\Ch1\bin\Debug\net5.0\ref\Ch1.dll
+C:\Code-Project\DesignPattern\Ch1\bin\Debug\net5.0\Ch1.pdb
+C:\Code-Project\DesignPattern\Ch1\obj\Debug\net5.0\Ch1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code-Project\DesignPattern\Ch1\obj\Debug\net5.0\Ch1.AssemblyInfoInputs.cache
+C:\Code-Project\DesignPattern\Ch1\obj\Debug\net5.0\Ch1.AssemblyInfo.cs
+C:\Code-Project\DesignPattern\Ch1\obj\Debug\net5.0\Ch1.csproj.CoreCompileInputs.cache
+C:\Code-Project\DesignPattern\Ch1\obj\Debug\net5.0\Ch1.dll
+C:\Code-Project\DesignPattern\Ch1\obj\Debug\net5.0\ref\Ch1.dll
+C:\Code-Project\DesignPattern\Ch1\obj\Debug\net5.0\Ch1.pdb
+C:\Code-Project\DesignPattern\Ch1\obj\Debug\net5.0\Ch1.genruntimeconfig.cache

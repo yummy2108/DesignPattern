@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "DesignPattern/1.0.0": {
+      "Ch1/1.0.0": {
         "runtime": {
-          "DesignPattern.dll": {}
+          "Ch1.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "DesignPattern/1.0.0": {
+    "Ch1/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

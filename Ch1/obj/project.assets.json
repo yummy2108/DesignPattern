@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Code-Project\\DesignPattern\\Ch1\\DesignPattern.csproj",
-      "projectName": "DesignPattern",
-      "projectPath": "C:\\Code-Project\\DesignPattern\\Ch1\\DesignPattern.csproj",
+      "projectUniqueName": "C:\\Code-Project\\DesignPattern\\Ch1\\Ch1.csproj",
+      "projectName": "Ch1",
+      "projectPath": "C:\\Code-Project\\DesignPattern\\Ch1\\Ch1.csproj",
       "packagesPath": "C:\\Users\\mingjingyu\\.nuget\\packages\\",
       "outputPath": "C:\\Code-Project\\DesignPattern\\Ch1\\obj\\",
       "projectStyle": "PackageReference",
