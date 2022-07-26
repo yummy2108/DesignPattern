@@ -1,0 +1,16 @@
+D:\Learn\DesignPattern\Ch2\WeatherHandler\bin\Debug\net5.0\WeatherHandler.exe
+D:\Learn\DesignPattern\Ch2\WeatherHandler\bin\Debug\net5.0\WeatherHandler.deps.json
+D:\Learn\DesignPattern\Ch2\WeatherHandler\bin\Debug\net5.0\WeatherHandler.runtimeconfig.json
+D:\Learn\DesignPattern\Ch2\WeatherHandler\bin\Debug\net5.0\WeatherHandler.runtimeconfig.dev.json
+D:\Learn\DesignPattern\Ch2\WeatherHandler\bin\Debug\net5.0\WeatherHandler.dll
+D:\Learn\DesignPattern\Ch2\WeatherHandler\bin\Debug\net5.0\ref\WeatherHandler.dll
+D:\Learn\DesignPattern\Ch2\WeatherHandler\bin\Debug\net5.0\WeatherHandler.pdb
+D:\Learn\DesignPattern\Ch2\WeatherHandler\obj\Debug\net5.0\WeatherHandler.csproj.AssemblyReference.cache
+D:\Learn\DesignPattern\Ch2\WeatherHandler\obj\Debug\net5.0\WeatherHandler.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\DesignPattern\Ch2\WeatherHandler\obj\Debug\net5.0\WeatherHandler.AssemblyInfoInputs.cache
+D:\Learn\DesignPattern\Ch2\WeatherHandler\obj\Debug\net5.0\WeatherHandler.AssemblyInfo.cs
+D:\Learn\DesignPattern\Ch2\WeatherHandler\obj\Debug\net5.0\WeatherHandler.csproj.CoreCompileInputs.cache
+D:\Learn\DesignPattern\Ch2\WeatherHandler\obj\Debug\net5.0\WeatherHandler.dll
+D:\Learn\DesignPattern\Ch2\WeatherHandler\obj\Debug\net5.0\ref\WeatherHandler.dll
+D:\Learn\DesignPattern\Ch2\WeatherHandler\obj\Debug\net5.0\WeatherHandler.pdb
+D:\Learn\DesignPattern\Ch2\WeatherHandler\obj\Debug\net5.0\WeatherHandler.genruntimeconfig.cache
