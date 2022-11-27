@@ -1,0 +1,13 @@
+D:\Learn\DesignPattern\Ch5\SingletonPattern\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.exe
+D:\Learn\DesignPattern\Ch5\SingletonPattern\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.deps.json
+D:\Learn\DesignPattern\Ch5\SingletonPattern\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.runtimeconfig.json
+D:\Learn\DesignPattern\Ch5\SingletonPattern\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.runtimeconfig.dev.json
+D:\Learn\DesignPattern\Ch5\SingletonPattern\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.dll
+D:\Learn\DesignPattern\Ch5\SingletonPattern\SingletonPattern\bin\Debug\netcoreapp3.1\SingletonPattern.pdb
+D:\Learn\DesignPattern\Ch5\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.csproj.AssemblyReference.cache
+D:\Learn\DesignPattern\Ch5\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.AssemblyInfoInputs.cache
+D:\Learn\DesignPattern\Ch5\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.AssemblyInfo.cs
+D:\Learn\DesignPattern\Ch5\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.csproj.CoreCompileInputs.cache
+D:\Learn\DesignPattern\Ch5\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.dll
+D:\Learn\DesignPattern\Ch5\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.pdb
+D:\Learn\DesignPattern\Ch5\SingletonPattern\SingletonPattern\obj\Debug\netcoreapp3.1\SingletonPattern.genruntimeconfig.cache
