@@ -1,0 +1,13 @@
+D:\Learn\DesignPattern\Ch4\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+D:\Learn\DesignPattern\Ch4\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+D:\Learn\DesignPattern\Ch4\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+D:\Learn\DesignPattern\Ch4\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+D:\Learn\DesignPattern\Ch4\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+D:\Learn\DesignPattern\Ch4\FactoryMethod\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+D:\Learn\DesignPattern\Ch4\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.AssemblyReference.cache
+D:\Learn\DesignPattern\Ch4\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+D:\Learn\DesignPattern\Ch4\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+D:\Learn\DesignPattern\Ch4\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\Learn\DesignPattern\Ch4\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+D:\Learn\DesignPattern\Ch4\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
+D:\Learn\DesignPattern\Ch4\FactoryMethod\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.genruntimeconfig.cache
