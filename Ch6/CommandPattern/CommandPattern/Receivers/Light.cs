@@ -6,8 +6,15 @@ namespace CommandPattern.Receivers
 {
     public class Light
     {
-        public void On() => Console.WriteLine("Light is on");
+        private readonly string _location;
 
-        public void Off() => Console.WriteLine("Light is off");
+        public Light(string location)
+        {
+            _location = location;
+        }
+
+        public void On() => Console.WriteLine(_location + " light is on");
+
+        public void Off() => Console.WriteLine(_location + " light is off");
     }
 }
