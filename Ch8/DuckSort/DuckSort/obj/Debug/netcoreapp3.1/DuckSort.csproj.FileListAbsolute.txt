@@ -1,0 +1,14 @@
+C:\Code-Project\DesignPattern\Ch8\DuckSort\DuckSort\bin\Debug\netcoreapp3.1\DuckSort.exe
+C:\Code-Project\DesignPattern\Ch8\DuckSort\DuckSort\bin\Debug\netcoreapp3.1\DuckSort.deps.json
+C:\Code-Project\DesignPattern\Ch8\DuckSort\DuckSort\bin\Debug\netcoreapp3.1\DuckSort.runtimeconfig.json
+C:\Code-Project\DesignPattern\Ch8\DuckSort\DuckSort\bin\Debug\netcoreapp3.1\DuckSort.runtimeconfig.dev.json
+C:\Code-Project\DesignPattern\Ch8\DuckSort\DuckSort\bin\Debug\netcoreapp3.1\DuckSort.dll
+C:\Code-Project\DesignPattern\Ch8\DuckSort\DuckSort\bin\Debug\netcoreapp3.1\DuckSort.pdb
+C:\Code-Project\DesignPattern\Ch8\DuckSort\DuckSort\obj\Debug\netcoreapp3.1\DuckSort.csproj.AssemblyReference.cache
+C:\Code-Project\DesignPattern\Ch8\DuckSort\DuckSort\obj\Debug\netcoreapp3.1\DuckSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code-Project\DesignPattern\Ch8\DuckSort\DuckSort\obj\Debug\netcoreapp3.1\DuckSort.AssemblyInfoInputs.cache
+C:\Code-Project\DesignPattern\Ch8\DuckSort\DuckSort\obj\Debug\netcoreapp3.1\DuckSort.AssemblyInfo.cs
+C:\Code-Project\DesignPattern\Ch8\DuckSort\DuckSort\obj\Debug\netcoreapp3.1\DuckSort.csproj.CoreCompileInputs.cache
+C:\Code-Project\DesignPattern\Ch8\DuckSort\DuckSort\obj\Debug\netcoreapp3.1\DuckSort.dll
+C:\Code-Project\DesignPattern\Ch8\DuckSort\DuckSort\obj\Debug\netcoreapp3.1\DuckSort.pdb
+C:\Code-Project\DesignPattern\Ch8\DuckSort\DuckSort\obj\Debug\netcoreapp3.1\DuckSort.genruntimeconfig.cache
